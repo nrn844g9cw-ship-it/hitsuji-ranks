@@ -1,41 +1,7 @@
 {
- "updatedAt": "2026-10-12T23:17:41+09:00",
+ "updatedAt": "2026-10-13T05:12:32+09:00",
  "source": "https://kissfx.com/",
  "days": {
-  "2026-10-12": [
-   {
-    "time": "18:30",
-    "country": "英国",
-    "name": "英)ブリーデンBOE副総裁の発言",
-    "rank": "△",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "21:50",
-    "country": "英国",
-    "name": "英)マンMPC委員の発言",
-    "rank": "△",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "25:10",
-    "country": "米国",
-    "name": "米)ハマック：クリーブランド連銀総裁の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "-",
-    "country": "米国",
-    "name": "米)注目度の高い経済指標の発表はない",
-    "rank": "",
-    "forecast": "-",
-    "previous": "-"
-   }
-  ],
   "2026-10-13": [
    {
     "time": "08:50",
