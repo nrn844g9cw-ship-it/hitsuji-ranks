@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T05:12:32+09:00",
+ "updatedAt": "2026-10-14T20:05:27+09:00",
  "source": "https://kissfx.com/",
  "days": {
   "2026-10-14": [
@@ -24,7 +24,7 @@
     "country": "中国",
     "name": "中)生産者物価指数",
     "rank": "○",
-    "forecast": "+4.5%",
+    "forecast": "+4.4%",
     "previous": "+3.8%"
    },
    {
@@ -32,8 +32,16 @@
     "country": "中国",
     "name": "中)貿易収支",
     "rank": "○",
-    "forecast": "+1181.0億",
+    "forecast": "+1177.8億",
     "previous": "+1190.9億"
+   },
+   {
+    "time": "11:10",
+    "country": "ユーロ圏",
+    "name": "欧)ラガルドECB総裁の発言",
+    "rank": "◎",
+    "forecast": "要人発言",
+    "previous": ""
    },
    {
     "time": "12:30",
