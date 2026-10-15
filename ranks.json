@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T05:12:33+09:00",
+ "updatedAt": "2026-10-15T20:05:33+09:00",
  "source": "https://kissfx.com/",
  "days": {
   "2026-10-15": [
@@ -8,7 +8,7 @@
     "country": "日本",
     "name": "日)機械受注 [前月比/前年比]",
     "rank": "×",
-    "forecast": "+2.6%",
+    "forecast": "+2.3%",
     "previous": "-3.7%"
    },
    {
@@ -44,7 +44,7 @@
     "previous": ""
    },
    {
-    "time": "12:35",
+    "time": "12:40",
     "country": "英国",
     "name": "英)ピルMPC理事の発言",
     "rank": "△",
@@ -88,7 +88,7 @@
     "country": "英国",
     "name": "↑・製造業生産高[前月比/前年比]",
     "rank": "○",
-    "forecast": "+0.1%",
+    "forecast": "±0.0%",
     "previous": "+0.9%"
    },
    {
@@ -96,7 +96,7 @@
     "country": "英国",
     "name": "英)商品貿易収支／貿易収支",
     "rank": "△",
-    "forecast": "-218.00億",
+    "forecast": "-219.00億",
     "previous": "-209.65億"
    },
    {
@@ -136,7 +136,7 @@
     "country": "ユーロ圏",
     "name": "欧)鉱工業生産 [前月比/前年比]",
     "rank": "△",
-    "forecast": "+0.1%",
+    "forecast": "±0.0%",
     "previous": "-0.1%"
    },
    {
@@ -176,7 +176,7 @@
     "country": "米国",
     "name": "米)生産者物価指数[前月比/前年比]",
     "rank": "S",
-    "forecast": "+0.5%",
+    "forecast": "+0.6%",
     "previous": "+0.4%"
    },
    {
@@ -184,7 +184,7 @@
     "country": "米国",
     "name": "米)フィラデルフィア連銀景況指数",
     "rank": "A",
-    "forecast": "+26.4",
+    "forecast": "+28.0",
     "previous": "+37.8"
    },
    {
@@ -192,7 +192,7 @@
     "country": "米国",
     "name": "米)NY連銀製造業景気指数",
     "rank": "A",
-    "forecast": "+12.6",
+    "forecast": "+12.3",
     "previous": "+7.6"
    },
    {
@@ -202,6 +202,14 @@
     "rank": "C",
     "forecast": "+0.4%",
     "previous": "+0.8%"
+   },
+   {
+    "time": "23:00",
+    "country": "米国",
+    "name": "米)グールズビー：シカゴ連銀総裁の発言(投票権なし)",
+    "rank": "BB",
+    "forecast": "要人発言",
+    "previous": ""
    },
    {
     "time": "23:30",
