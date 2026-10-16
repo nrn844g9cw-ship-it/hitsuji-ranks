@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T05:26:39+09:00",
+ "updatedAt": "2026-10-16T20:39:35+09:00",
  "source": "https://kissfx.com/",
  "days": {
   "2026-09-11": [
@@ -3170,7 +3170,7 @@
     "country": "カナダ",
     "name": "加)住宅着工件数",
     "rank": "○",
-    "forecast": "23.00万件",
+    "forecast": "23.25万件",
     "previous": "22.90万件"
    },
    {
@@ -3186,7 +3186,7 @@
     "country": "米国",
     "name": "米)輸入物価指数[前月比/前年比]",
     "rank": "BB",
-    "forecast": "+0.6%",
+    "forecast": "+0.9%",
     "previous": "+0.7%"
    },
    {
@@ -3204,6 +3204,14 @@
     "rank": "B",
     "forecast": "76.5%",
     "previous": "76.3%"
+   },
+   {
+    "time": "27:00",
+    "country": "米国",
+    "name": "米)財政収支",
+    "rank": "C",
+    "forecast": "-300億",
+    "previous": "-1668億"
    },
    {
     "time": "29:00",
