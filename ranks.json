@@ -1,57 +1,7 @@
 {
- "updatedAt": "2026-10-18T05:26:38+09:00",
+ "updatedAt": "2026-10-18T20:39:34+09:00",
  "source": "https://kissfx.com/",
  "days": {
-  "2026-09-14": [
-   {
-    "time": "13:30",
-    "country": "日本",
-    "name": "日)鉱工業生産【確報値】 [前月比/前年比]",
-    "rank": "×",
-    "forecast": "-",
-    "previous": "+0.1%"
-   },
-   {
-    "time": "15:30",
-    "country": "スイス",
-    "name": "ス)生産者輸入価格 [前月比/前年比]",
-    "rank": "△",
-    "forecast": "-",
-    "previous": "-0.1%"
-   },
-   {
-    "time": "21:30",
-    "country": "カナダ",
-    "name": "加)消費者物価指数[前月比/前年比]",
-    "rank": "◎",
-    "forecast": "±0.0%",
-    "previous": "+0.5%"
-   },
-   {
-    "time": "21:30",
-    "country": "カナダ",
-    "name": "加)製造業出荷",
-    "rank": "△",
-    "forecast": "-0.2%",
-    "previous": "+0.1%"
-   },
-   {
-    "time": "24:15",
-    "country": "ユーロ圏",
-    "name": "欧)ラガルドECB総裁の発言",
-    "rank": "◎",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "-",
-    "country": "米国",
-    "name": "米)注目度の高い経済指標の発表はない",
-    "rank": "",
-    "forecast": "-",
-    "previous": "-"
-   }
-  ],
   "2026-09-15": [
    {
     "time": "11:00",
@@ -3130,6 +3080,504 @@
     "rank": "C",
     "forecast": "-",
     "previous": "-279億"
+   }
+  ],
+  "2026-10-19": [
+   {
+    "time": "06:45",
+    "country": "ニュージーランド",
+    "name": "NZ)貿易収支",
+    "rank": "○",
+    "forecast": "-",
+    "previous": "-13.49億"
+   },
+   {
+    "time": "08:01",
+    "country": "英国",
+    "name": "英)ライトムーブ住宅価格 [前月比/前年比]",
+    "rank": "×",
+    "forecast": "-",
+    "previous": "+0.7%"
+   },
+   {
+    "time": "11:00",
+    "country": "中国",
+    "name": "中)第3四半期GDP [前期比/前年比]",
+    "rank": "◎",
+    "forecast": "+0.9%",
+    "previous": "+0.9%"
+   },
+   {
+    "time": "11:00",
+    "country": "中国",
+    "name": "中)鉱工業生産",
+    "rank": "○",
+    "forecast": "+5.5%",
+    "previous": "+5.2%"
+   },
+   {
+    "time": "11:00",
+    "country": "中国",
+    "name": "中)小売売上高",
+    "rank": "○",
+    "forecast": "+0.5%",
+    "previous": "+0.4%"
+   },
+   {
+    "time": "11:00",
+    "country": "中国",
+    "name": "中)固定資産投資",
+    "rank": "○",
+    "forecast": "-7.3%",
+    "previous": "-7.2%"
+   },
+   {
+    "time": "13:30",
+    "country": "日本",
+    "name": "日)第三次産業活動指数",
+    "rank": "×",
+    "forecast": "-0.4%",
+    "previous": "+0.4%"
+   },
+   {
+    "time": "21:30",
+    "country": "カナダ",
+    "name": "加)消費者物価指数[前月比/前年比]",
+    "rank": "◎",
+    "forecast": "+0.2%",
+    "previous": "-0.1%"
+   },
+   {
+    "time": "23:00",
+    "country": "米国",
+    "name": "米)NAHB住宅市場指数",
+    "rank": "C",
+    "forecast": "31",
+    "previous": "32"
+   },
+   {
+    "time": "-",
+    "country": "米国",
+    "name": "米)注目度の高い経済指標の発表はない",
+    "rank": "",
+    "forecast": "-",
+    "previous": "-"
+   }
+  ],
+  "2026-10-20": [
+   {
+    "time": "12:35",
+    "country": "日本",
+    "name": "日)20年利付国債入札",
+    "rank": "◎",
+    "forecast": "-",
+    "previous": ""
+   },
+   {
+    "time": "15:00",
+    "country": "英国",
+    "name": "英)失業率",
+    "rank": "◎",
+    "forecast": "-",
+    "previous": "4.4%"
+   },
+   {
+    "time": "15:00",
+    "country": "ドイツ",
+    "name": "独)生産者物価指数 [前月比/前年比]",
+    "rank": "×",
+    "forecast": "+1.6%",
+    "previous": "+1.1%"
+   },
+   {
+    "time": "15:00",
+    "country": "スイス",
+    "name": "ス)貿易収支",
+    "rank": "×",
+    "forecast": "-",
+    "previous": "+56.1億"
+   },
+   {
+    "time": "18:00",
+    "country": "ドイツ",
+    "name": "独)ZEW景況感調査",
+    "rank": "○",
+    "forecast": "+30.0",
+    "previous": "+34.7"
+   },
+   {
+    "time": "18:00",
+    "country": "ユーロ圏",
+    "name": "欧)ZEW景況感調査",
+    "rank": "△",
+    "forecast": "-",
+    "previous": "+25.8"
+   },
+   {
+    "time": "21:30",
+    "country": "米国",
+    "name": "米)住宅着工件数",
+    "rank": "A",
+    "forecast": "130.5万件",
+    "previous": "127.5万件"
+   },
+   {
+    "time": "21:30",
+    "country": "米国",
+    "name": "↑・建設許可件数",
+    "rank": "A",
+    "forecast": "138.5万件",
+    "previous": "139.4万件"
+   },
+   {
+    "time": "23:00",
+    "country": "米国",
+    "name": "米)中古住宅販売保留 [前月比/前年比]",
+    "rank": "A",
+    "forecast": "-0.5%",
+    "previous": "+0.3%"
+   },
+   {
+    "time": "26:00",
+    "country": "英国",
+    "name": "英)グリーンMPC委員の発言",
+    "rank": "△",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "米株 引け後",
+    "country": "米国",
+    "name": "米)ネットフリックス決算",
+    "rank": "A",
+    "forecast": "大手企業決算",
+    "previous": ""
+   }
+  ],
+  "2026-10-21": [
+   {
+    "time": "08:50",
+    "country": "日本",
+    "name": "日)貿易収支(通関ベース)",
+    "rank": "×",
+    "forecast": "-2094億",
+    "previous": "-11056億"
+   },
+   {
+    "time": "15:00",
+    "country": "英国",
+    "name": "英)消費者物価指数[前月比/前年比]",
+    "rank": "◎",
+    "forecast": "+0.3%",
+    "previous": "+0.5%"
+   },
+   {
+    "time": "15:00",
+    "country": "英国",
+    "name": "英)生産者物価指数[前月比/前年比]",
+    "rank": "○",
+    "forecast": "+0.6%",
+    "previous": "+0.7%"
+   },
+   {
+    "time": "15:00",
+    "country": "英国",
+    "name": "英)小売物価指数[前月比/前年比]",
+    "rank": "○",
+    "forecast": "+0.1%",
+    "previous": "+0.6%"
+   },
+   {
+    "time": "16:15",
+    "country": "ドイツ",
+    "name": "独)ナーゲル独連銀総裁の発言",
+    "rank": "△",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "20:00",
+    "country": "米国",
+    "name": "米)MBA住宅ローン申請指数",
+    "rank": "C",
+    "forecast": "-",
+    "previous": "-2.7%"
+   },
+   {
+    "time": "22:00",
+    "country": "英国",
+    "name": "英)ベイリーBOE総裁の発言",
+    "rank": "◎",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "23:30",
+    "country": "米国",
+    "name": "米)週間原油在庫",
+    "rank": "BB",
+    "forecast": "-",
+    "previous": "-855.7万"
+   },
+   {
+    "time": "25:00",
+    "country": "ユーロ圏",
+    "name": "欧)ラガルドECB総裁の発言",
+    "rank": "◎",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "26:00",
+    "country": "米国",
+    "name": "米)20年債入札",
+    "rank": "AA",
+    "forecast": "130億ドル",
+    "previous": ""
+   },
+   {
+    "time": "-",
+    "country": "米国",
+    "name": "米)注目度の高い経済指標の発表はない",
+    "rank": "",
+    "forecast": "-",
+    "previous": "-"
+   },
+   {
+    "time": "米株 引け後",
+    "country": "米国",
+    "name": "米)メタ・プラットフォームズ決算",
+    "rank": "AA",
+    "forecast": "大手企業決算",
+    "previous": ""
+   },
+   {
+    "time": "米株 引け後",
+    "country": "米国",
+    "name": "米)テスラ決算",
+    "rank": "AA",
+    "forecast": "大手企業決算",
+    "previous": ""
+   },
+   {
+    "time": "翌 06:45",
+    "country": "ニュージーランド",
+    "name": "NZ)第2四半期消費者物価指数 [前期比/前年比]",
+    "rank": "◎",
+    "forecast": "+0.8%",
+    "previous": "+1.5%"
+   }
+  ],
+  "2026-10-22": [
+   {
+    "time": "06:45",
+    "country": "ニュージーランド",
+    "name": "NZ)第3四半期消費者物価指数 [前期比/前年比]",
+    "rank": "◎",
+    "forecast": "+0.8%",
+    "previous": "+1.5%"
+   },
+   {
+    "time": "15:00",
+    "country": "日本",
+    "name": "日)工作機械受注",
+    "rank": "×",
+    "forecast": "-",
+    "previous": "+60.4%"
+   },
+   {
+    "time": "19:00",
+    "country": "英国",
+    "name": "英)CBI企業動向調査",
+    "rank": "×",
+    "forecast": "-20",
+    "previous": "-9"
+   },
+   {
+    "time": "20:00",
+    "country": "トルコ",
+    "name": "ト)TCMB政策金利＆声明発表",
+    "rank": "◎",
+    "forecast": "100bp 利下げ 36.00%",
+    "previous": "37.00% 据え置き"
+   },
+   {
+    "time": "21:30",
+    "country": "カナダ",
+    "name": "加)鉱工業製品価格",
+    "rank": "△",
+    "forecast": "+0.9%",
+    "previous": "+1.3%"
+   },
+   {
+    "time": "21:30",
+    "country": "カナダ",
+    "name": "加)原料価格指数",
+    "rank": "△",
+    "forecast": "+2.9%",
+    "previous": "+3.1%"
+   },
+   {
+    "time": "21:30",
+    "country": "米国",
+    "name": "米)新規失業保険申請件数",
+    "rank": "AA",
+    "forecast": "20.0万件",
+    "previous": "19.9万件"
+   },
+   {
+    "time": "23:00",
+    "country": "米国",
+    "name": "米)景気先行指数",
+    "rank": "A",
+    "forecast": "-0.1%",
+    "previous": "-0.1%"
+   },
+   {
+    "time": "23:30",
+    "country": "米国",
+    "name": "米)週間天然ガス貯蔵量",
+    "rank": "B",
+    "forecast": "-",
+    "previous": "+67"
+   },
+   {
+    "time": "24:00",
+    "country": "米国",
+    "name": "米)カンザスシティ連銀製造業活動指数",
+    "rank": "C",
+    "forecast": "+12",
+    "previous": "+14"
+   },
+   {
+    "time": "26:00",
+    "country": "米国",
+    "name": "米)5年インフレ連動債(TIPS)入札",
+    "rank": "A",
+    "forecast": "260億ドル",
+    "previous": ""
+   }
+  ],
+  "2026-10-23": [
+   {
+    "time": "08:01",
+    "country": "英国",
+    "name": "英)GFK消費者信頼感調査",
+    "rank": "×",
+    "forecast": "-15",
+    "previous": "-13"
+   },
+   {
+    "time": "08:30",
+    "country": "日本",
+    "name": "日)全国消費者物価指数",
+    "rank": "◎",
+    "forecast": "+2.1%",
+    "previous": "+1.9%"
+   },
+   {
+    "time": "15:00",
+    "country": "英国",
+    "name": "英)小売売上高[前月比/前年比]",
+    "rank": "◎",
+    "forecast": "-0.1%",
+    "previous": "+0.5%"
+   },
+   {
+    "time": "16:15",
+    "country": "フランス",
+    "name": "仏)製造業PMI【速報値】",
+    "rank": "○",
+    "forecast": "50.5",
+    "previous": "50.6"
+   },
+   {
+    "time": "16:15",
+    "country": "フランス",
+    "name": "仏)非製造業PMI【速報値】",
+    "rank": "○",
+    "forecast": "50.9",
+    "previous": "51.2"
+   },
+   {
+    "time": "16:30",
+    "country": "ドイツ",
+    "name": "独)製造業PMI【速報値】",
+    "rank": "◎",
+    "forecast": "53.5",
+    "previous": "53.9"
+   },
+   {
+    "time": "16:30",
+    "country": "ドイツ",
+    "name": "独)非製造業PMI【速報値】",
+    "rank": "○",
+    "forecast": "52.5",
+    "previous": "52.9"
+   },
+   {
+    "time": "17:00",
+    "country": "ユーロ圏",
+    "name": "欧)製造業PMI【速報値】",
+    "rank": "◎",
+    "forecast": "52.7",
+    "previous": "52.9"
+   },
+   {
+    "time": "17:00",
+    "country": "ユーロ圏",
+    "name": "欧)非製造業PMI【速報値】",
+    "rank": "○",
+    "forecast": "52.5",
+    "previous": "53.0"
+   },
+   {
+    "time": "17:30",
+    "country": "英国",
+    "name": "英)製造業PMI【速報値】",
+    "rank": "◎",
+    "forecast": "51.8",
+    "previous": "51.9"
+   },
+   {
+    "time": "17:30",
+    "country": "英国",
+    "name": "英)非製造業PMI【速報値】",
+    "rank": "◎",
+    "forecast": "51.8",
+    "previous": "52.1"
+   },
+   {
+    "time": "21:30",
+    "country": "カナダ",
+    "name": "加)小売売上高",
+    "rank": "◎",
+    "forecast": "+1.2%",
+    "previous": "-0.7%"
+   },
+   {
+    "time": "22:45",
+    "country": "米国",
+    "name": "米)製造業PMI【速報値】",
+    "rank": "AA",
+    "forecast": "55.5",
+    "previous": "55.9"
+   },
+   {
+    "time": "22:45",
+    "country": "米国",
+    "name": "米)非製造業PMI【速報値】",
+    "rank": "A",
+    "forecast": "58.0",
+    "previous": "58.8"
+   },
+   {
+    "time": "23:00",
+    "country": "米国",
+    "name": "米)ミシガン大学消費者信頼感指数【確報値】",
+    "rank": "A",
+    "forecast": "46.3",
+    "previous": "46.3"
    }
   ]
  }
