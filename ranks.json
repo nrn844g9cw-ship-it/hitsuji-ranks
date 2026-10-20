@@ -1,129 +1,7 @@
 {
- "updatedAt": "2026-10-20T05:26:38+09:00",
+ "updatedAt": "2026-10-20T20:39:34+09:00",
  "source": "https://kissfx.com/",
  "days": {
-  "2026-09-15": [
-   {
-    "time": "11:00",
-    "country": "中国",
-    "name": "中)鉱工業生産",
-    "rank": "○",
-    "forecast": "+4.8%",
-    "previous": "+4.5%"
-   },
-   {
-    "time": "11:00",
-    "country": "中国",
-    "name": "中)小売売上高",
-    "rank": "○",
-    "forecast": "+0.8%",
-    "previous": "+0.6%"
-   },
-   {
-    "time": "11:00",
-    "country": "中国",
-    "name": "中)固定資産投資",
-    "rank": "○",
-    "forecast": "-7.1%",
-    "previous": "-6.7%"
-   },
-   {
-    "time": "12:35",
-    "country": "日本",
-    "name": "日)20年利付国債入札",
-    "rank": "◎",
-    "forecast": "-",
-    "previous": ""
-   },
-   {
-    "time": "13:30",
-    "country": "日本",
-    "name": "日)第三次産業活動指数",
-    "rank": "×",
-    "forecast": "+0.3%",
-    "previous": "-0.2%"
-   },
-   {
-    "time": "15:00",
-    "country": "英国",
-    "name": "英)失業率",
-    "rank": "◎",
-    "forecast": "-",
-    "previous": "4.3%"
-   },
-   {
-    "time": "15:45",
-    "country": "フランス",
-    "name": "仏)消費者物価指数【改定値】 [前月比/前年比]",
-    "rank": "×",
-    "forecast": "+0.7%",
-    "previous": "+0.7%"
-   },
-   {
-    "time": "18:00",
-    "country": "ドイツ",
-    "name": "独)ZEW景況感調査",
-    "rank": "○",
-    "forecast": "+40.0",
-    "previous": "+34.2"
-   },
-   {
-    "time": "18:00",
-    "country": "ユーロ圏",
-    "name": "欧)ZEW景況感調査",
-    "rank": "△",
-    "forecast": "-",
-    "previous": "+31.4"
-   },
-   {
-    "time": "18:00",
-    "country": "ユーロ圏",
-    "name": "欧)貿易収支",
-    "rank": "×",
-    "forecast": "-",
-    "previous": "+86億"
-   },
-   {
-    "time": "18:00",
-    "country": "カナダ",
-    "name": "加)中古住宅販売件数",
-    "rank": "△",
-    "forecast": "-0.5%",
-    "previous": "+0.5%"
-   },
-   {
-    "time": "21:30",
-    "country": "カナダ",
-    "name": "加)卸売売上高",
-    "rank": "△",
-    "forecast": "-0.5%",
-    "previous": "+2.8%"
-   },
-   {
-    "time": "21:30",
-    "country": "米国",
-    "name": "米)NY連銀製造業景気指数",
-    "rank": "A",
-    "forecast": "+15.0",
-    "previous": "+20.6"
-   },
-   {
-    "time": "26:00",
-    "country": "米国",
-    "name": "米)20年債入札",
-    "rank": "AA",
-    "forecast": "130億ドル",
-    "previous": ""
-   },
-   {
-    "time": "翌 07:45",
-    "country": "ニュージーランド",
-    "name": "NZ)第2四半期経常収支",
-    "rank": "○",
-    "forecast": "-26.00億",
-    "previous": "-10.08億"
-   }
-  ],
   "2026-09-16": [
    {
     "time": "07:45",
@@ -3218,7 +3096,7 @@
     "country": "米国",
     "name": "米)住宅着工件数",
     "rank": "A",
-    "forecast": "130.5万件",
+    "forecast": "130.0万件",
     "previous": "127.5万件"
    },
    {
@@ -3234,7 +3112,7 @@
     "country": "米国",
     "name": "米)中古住宅販売保留 [前月比/前年比]",
     "rank": "A",
-    "forecast": "-0.5%",
+    "forecast": "-1.0%",
     "previous": "+0.3%"
    },
    {
