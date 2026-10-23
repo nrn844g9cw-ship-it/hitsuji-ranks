@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T05:26:38+09:00",
+ "updatedAt": "2026-10-23T20:39:35+09:00",
  "source": "https://kissfx.com/",
  "days": {
   "2026-09-21": [
@@ -2928,7 +2928,7 @@
     "country": "英国",
     "name": "英)GFK消費者信頼感調査",
     "rank": "×",
-    "forecast": "-15",
+    "forecast": "-14",
     "previous": "-13"
    },
    {
@@ -2960,7 +2960,7 @@
     "country": "フランス",
     "name": "仏)非製造業PMI【速報値】",
     "rank": "○",
-    "forecast": "50.9",
+    "forecast": "50.7",
     "previous": "51.2"
    },
    {
@@ -2984,7 +2984,7 @@
     "country": "ユーロ圏",
     "name": "欧)製造業PMI【速報値】",
     "rank": "◎",
-    "forecast": "52.7",
+    "forecast": "52.8",
     "previous": "52.9"
    },
    {
@@ -3016,7 +3016,7 @@
     "country": "カナダ",
     "name": "加)小売売上高",
     "rank": "◎",
-    "forecast": "+1.2%",
+    "forecast": "+1.3%",
     "previous": "-0.7%"
    },
    {
