@@ -1,57 +1,7 @@
 {
- "updatedAt": "2026-10-24T05:26:38+09:00",
+ "updatedAt": "2026-10-24T20:39:34+09:00",
  "source": "https://kissfx.com/",
  "days": {
-  "2026-09-21": [
-   {
-    "time": "08:01",
-    "country": "英国",
-    "name": "英)ライトムーブ住宅価格 [前月比/前年比]",
-    "rank": "×",
-    "forecast": "-",
-    "previous": "-2.0%"
-   },
-   {
-    "time": "19:30",
-    "country": "米国",
-    "name": "米)グールズビー：シカゴ連銀総裁の発言(投票権なし)",
-    "rank": "BB",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "21:30",
-    "country": "米国",
-    "name": "米)シカゴ連銀全米活動指数",
-    "rank": "C",
-    "forecast": "-0.04",
-    "previous": "-0.06"
-   },
-   {
-    "time": "24:00",
-    "country": "ユーロ圏",
-    "name": "欧)ラガルドECB総裁の発言",
-    "rank": "◎",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "24:20",
-    "country": "カナダ",
-    "name": "加)マックレムBOC総裁の発言",
-    "rank": "◎",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "-",
-    "country": "米国",
-    "name": "米)注目度の高い経済指標の発表はない",
-    "rank": "",
-    "forecast": "-",
-    "previous": "-"
-   }
-  ],
   "2026-09-22": [
    {
     "time": "12:10",
