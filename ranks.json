@@ -1,73 +1,7 @@
 {
- "updatedAt": "2026-10-27T05:26:54+09:00",
+ "updatedAt": "2026-10-27T20:39:34+09:00",
  "source": "https://kissfx.com/",
  "days": {
-  "2026-09-28": [
-   {
-    "time": "08:50",
-    "country": "日本",
-    "name": "日)BOJ議事要旨公表(7月30日・31日開催分)",
-    "rank": "○",
-    "forecast": "-",
-    "previous": "-"
-   },
-   {
-    "time": "19:00",
-    "country": "英国",
-    "name": "英)ラムスデンBOE副総裁の発言",
-    "rank": "△",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "21:15",
-    "country": "米国",
-    "name": "米)ボウマンFRB副議長の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "23:00",
-    "country": "ユーロ圏",
-    "name": "欧)ラガルドECB総裁の発言",
-    "rank": "◎",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "23:30",
-    "country": "米国",
-    "name": "米)ダラス連銀製造業活動指数",
-    "rank": "C",
-    "forecast": "+8.2",
-    "previous": "+11.6"
-   },
-   {
-    "time": "26:25",
-    "country": "米国",
-    "name": "米)クックFRB理事の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "26:30",
-    "country": "米国",
-    "name": "米)バーキン：リッチモンド連銀総裁の発言(投票権なし)",
-    "rank": "BB",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "-",
-    "country": "米国",
-    "name": "米)注目度の高い経済指標の発表はない",
-    "rank": "",
-    "forecast": "-",
-    "previous": "-"
-   }
-  ],
   "2026-09-29": [
    {
     "time": "12:35",
@@ -2618,7 +2552,7 @@
     "country": "米国",
     "name": "米)耐久財受注",
     "rank": "A",
-    "forecast": "+1.7%",
+    "forecast": "+1.9%",
     "previous": "-0.1%"
    },
    {
@@ -2634,7 +2568,7 @@
     "country": "米国",
     "name": "米)住宅価格指数",
     "rank": "BB",
-    "forecast": "+0.1%",
+    "forecast": "+0.2%",
     "previous": "+0.3%"
    },
    {
@@ -2642,7 +2576,7 @@
     "country": "米国",
     "name": "米)消費者信頼感指数",
     "rank": "AA",
-    "forecast": "80.5",
+    "forecast": "81.0",
     "previous": "81.9"
    },
    {
@@ -2658,7 +2592,7 @@
     "country": "米国",
     "name": "米)リッチモンド連銀製造業指数",
     "rank": "C",
-    "forecast": "-",
+    "forecast": "±0",
     "previous": "-2"
    },
    {
