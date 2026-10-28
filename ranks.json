@@ -1,193 +1,7 @@
 {
- "updatedAt": "2026-10-28T05:26:38+09:00",
+ "updatedAt": "2026-10-28T20:39:34+09:00",
  "source": "https://kissfx.com/",
  "days": {
-  "2026-09-29": [
-   {
-    "time": "12:35",
-    "country": "日本",
-    "name": "日)40年利付国債入札",
-    "rank": "◎",
-    "forecast": "-",
-    "previous": ""
-   },
-   {
-    "time": "13:30",
-    "country": "オーストラリア",
-    "name": "豪)RBA政策金利＆声明発表",
-    "rank": "◎",
-    "forecast": "25bp 利上げ 4.60%",
-    "previous": "4.35% 据え置き"
-   },
-   {
-    "time": "14:00",
-    "country": "日本",
-    "name": "日)景気先行CI指数【改定値】",
-    "rank": "×",
-    "forecast": "-",
-    "previous": "117.9"
-   },
-   {
-    "time": "14:30",
-    "country": "オーストラリア",
-    "name": "豪)ブロックRBA総裁の記者会見",
-    "rank": "◎",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "16:00",
-    "country": "スイス",
-    "name": "ス)KOF先行指数",
-    "rank": "△",
-    "forecast": "106.0",
-    "previous": "106.7"
-   },
-   {
-    "time": "17:30",
-    "country": "英国",
-    "name": "英)住宅ローン承認件数",
-    "rank": "△",
-    "forecast": "56.1千件",
-    "previous": "56.1千件"
-   },
-   {
-    "time": "17:30",
-    "country": "英国",
-    "name": "英)消費者信用残高",
-    "rank": "×",
-    "forecast": "+19億",
-    "previous": "+20億"
-   },
-   {
-    "time": "17:30",
-    "country": "英国",
-    "name": "英)住宅証券融資高",
-    "rank": "×",
-    "forecast": "+44億",
-    "previous": "+43億"
-   },
-   {
-    "time": "17:30",
-    "country": "英国",
-    "name": "英)マネーサプライM4 [前月比/前年比]",
-    "rank": "×",
-    "forecast": "-",
-    "previous": "-0.3%"
-   },
-   {
-    "time": "19:00",
-    "country": "ドイツ",
-    "name": "独)ナーゲル独連銀総裁の発言",
-    "rank": "△",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "21:30",
-    "country": "カナダ",
-    "name": "加)GDP[前月比/前年比]",
-    "rank": "○",
-    "forecast": "±0.0%",
-    "previous": "+0.3%"
-   },
-   {
-    "time": "22:00",
-    "country": "米国",
-    "name": "米)S＆P/ケース・シラー住宅価格指数 [前月比/前年比]",
-    "rank": "BB",
-    "forecast": "+0.20%",
-    "previous": "+0.24%"
-   },
-   {
-    "time": "22:00",
-    "country": "米国",
-    "name": "米)住宅価格指数",
-    "rank": "BB",
-    "forecast": "+0.1%",
-    "previous": "±0.0%"
-   },
-   {
-    "time": "23:00",
-    "country": "米国",
-    "name": "米)消費者信頼感指数",
-    "rank": "AA",
-    "forecast": "89.1",
-    "previous": "89.4"
-   },
-   {
-    "time": "23:00",
-    "country": "米国",
-    "name": "米)JOLTS求人",
-    "rank": "AA",
-    "forecast": "7228千件",
-    "previous": "7271千件"
-   },
-   {
-    "time": "24:00",
-    "country": "英国",
-    "name": "英)マンMPC委員の発言",
-    "rank": "△",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "24:00",
-    "country": "米国",
-    "name": "米)ボウマンFRB副議長の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "24:30",
-    "country": "英国",
-    "name": "英)テイラーMPC委員の発言",
-    "rank": "△",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "25:40",
-    "country": "米国",
-    "name": "米)バーFRB理事の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "26:00",
-    "country": "米国",
-    "name": "米)グールズビー：シカゴ連銀総裁の発言(投票権なし)",
-    "rank": "BB",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "26:30",
-    "country": "米国",
-    "name": "米)ムサレム：セントルイス連銀総裁の発言(投票権なし)",
-    "rank": "BB",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "27:00",
-    "country": "米国",
-    "name": "米)ウィリアムズ：NY連銀総裁の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "28:00",
-    "country": "米国",
-    "name": "米)ウォラーFRB理事の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   }
-  ],
   "2026-09-30": [
    {
     "time": "08:50",
@@ -2642,7 +2456,7 @@
     "country": "ドイツ",
     "name": "独)GFK消費者信頼感調査",
     "rank": "×",
-    "forecast": "-30.1",
+    "forecast": "-30.9",
     "previous": "-30.6"
    },
    {
@@ -2658,7 +2472,7 @@
     "country": "米国",
     "name": "米)卸売在庫【速報値】",
     "rank": "C",
-    "forecast": "+0.4%",
+    "forecast": "+0.5%",
     "previous": "+0.5%"
    },
    {
@@ -2666,7 +2480,7 @@
     "country": "カナダ",
     "name": "加)BOC政策金利＆声明発表",
     "rank": "◎",
-    "forecast": "2.25% 据え置き",
+    "forecast": "2.25%と 2.50%で 拮抗",
     "previous": "2.25% 据え置き"
    },
    {
