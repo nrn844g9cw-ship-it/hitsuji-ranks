@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T05:26:39+09:00",
+ "updatedAt": "2026-10-29T20:39:35+09:00",
  "source": "https://kissfx.com/",
  "days": {
   "2026-09-30": [
@@ -2562,7 +2562,7 @@
     "country": "英国",
     "name": "英)消費者信用残高",
     "rank": "×",
-    "forecast": "+21億",
+    "forecast": "+20億",
     "previous": "+25億"
    },
    {
@@ -2586,7 +2586,7 @@
     "country": "米国",
     "name": "米)新規失業保険申請件数",
     "rank": "AA",
-    "forecast": "19.9万件",
+    "forecast": "19.8万件",
     "previous": "19.4万件"
    },
    {
@@ -2658,8 +2658,8 @@
     "country": "ニュージーランド",
     "name": "NZ)ANZ消費者信頼感指数",
     "rank": "×",
-    "forecast": "",
-    "previous": ""
+    "forecast": "-",
+    "previous": "97.6"
    }
   ],
   "2026-10-30": [
