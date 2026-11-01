@@ -1,371 +1,7 @@
 {
- "updatedAt": "2026-11-01T05:26:38+09:00",
+ "updatedAt": "2026-11-01T20:39:34+09:00",
  "source": "https://kissfx.com/",
  "days": {
-  "2026-10-01": [
-   {
-    "time": "06:10",
-    "country": "米国",
-    "name": "米)グールズビー：シカゴ連銀総裁の発言(投票権なし)",
-    "rank": "BB",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "06:45",
-    "country": "ニュージーランド",
-    "name": "NZ) 住宅建設許可",
-    "rank": "△",
-    "forecast": "-",
-    "previous": "-4.3%"
-   },
-   {
-    "time": "07:00",
-    "country": "米国",
-    "name": "米)カシュカリ：ミネアポリス連銀総裁の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "08:50",
-    "country": "日本",
-    "name": "日)第3四半期日銀短観 [大企業製造業業況判断]",
-    "rank": "◎",
-    "forecast": "+25",
-    "previous": "+22"
-   },
-   {
-    "time": "08:50",
-    "country": "日本",
-    "name": "日)日銀金融政策決定会合における主な意見の公表(9月17日・18日開催分)",
-    "rank": "◎",
-    "forecast": "-",
-    "previous": "-"
-   },
-   {
-    "time": "10:30",
-    "country": "オーストラリア",
-    "name": "豪)貿易収支",
-    "rank": "◎",
-    "forecast": "+20.00億",
-    "previous": "+19.23億"
-   },
-   {
-    "time": "15:00",
-    "country": "英国",
-    "name": "英)ネーションワイド住宅価格 [前月比/前年比]",
-    "rank": "△",
-    "forecast": "±0.0%",
-    "previous": "+0.2%"
-   },
-   {
-    "time": "15:30",
-    "country": "スイス",
-    "name": "ス)消費者物価指数 [前月比/前年比]",
-    "rank": "△",
-    "forecast": "±0.0%",
-    "previous": "+0.4%"
-   },
-   {
-    "time": "15:30",
-    "country": "スイス",
-    "name": "ス)小売売上高",
-    "rank": "△",
-    "forecast": "-",
-    "previous": "+2.3%"
-   },
-   {
-    "time": "16:30",
-    "country": "スイス",
-    "name": "ス)製造業PMI",
-    "rank": "△",
-    "forecast": "56.3",
-    "previous": "57.1"
-   },
-   {
-    "time": "16:50",
-    "country": "フランス",
-    "name": "仏)製造業PMI【改定値】",
-    "rank": "×",
-    "forecast": "50.3",
-    "previous": "50.3"
-   },
-   {
-    "time": "16:55",
-    "country": "ドイツ",
-    "name": "独)製造業PMI【改定値】",
-    "rank": "×",
-    "forecast": "53.8",
-    "previous": "53.8"
-   },
-   {
-    "time": "17:00",
-    "country": "ユーロ圏",
-    "name": "欧)製造業PMI【改定値】",
-    "rank": "×",
-    "forecast": "52.7",
-    "previous": "52.7"
-   },
-   {
-    "time": "17:00",
-    "country": "英国",
-    "name": "英)ベイリーBOE総裁の発言",
-    "rank": "◎",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "17:30",
-    "country": "英国",
-    "name": "英)製造業PMI【改定値】",
-    "rank": "△",
-    "forecast": "52.0",
-    "previous": "52.0"
-   },
-   {
-    "time": "18:00",
-    "country": "ユーロ圏",
-    "name": "欧)失業率",
-    "rank": "×",
-    "forecast": "6.4%",
-    "previous": "6.4%"
-   },
-   {
-    "time": "18:30",
-    "country": "米国",
-    "name": "米)チャレンジャー人員削減予定数",
-    "rank": "C",
-    "forecast": "-",
-    "previous": "-38.5%"
-   },
-   {
-    "time": "19:35",
-    "country": "ドイツ",
-    "name": "独)ナーゲル独連銀総裁の発言",
-    "rank": "△",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "21:00",
-    "country": "英国",
-    "name": "英)マンMPC委員の発言",
-    "rank": "△",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "21:30",
-    "country": "米国",
-    "name": "米)新規失業保険申請件数",
-    "rank": "AA",
-    "forecast": "20.0万件",
-    "previous": "19.7万件"
-   },
-   {
-    "time": "22:05",
-    "country": "米国",
-    "name": "米)バーキン：リッチモンド連銀総裁の発言(投票権なし)",
-    "rank": "BB",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "22:05",
-    "country": "米国",
-    "name": "米)コリンズ：ボストン連銀総裁の発言(投票権なし)",
-    "rank": "BB",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "22:05",
-    "country": "米国",
-    "name": "米)シュミッド：カンザスシティ連銀総裁の発言(投票権なし)",
-    "rank": "BB",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "22:30",
-    "country": "ユーロ圏",
-    "name": "欧)ラガルドECB総裁の発言",
-    "rank": "◎",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "22:45",
-    "country": "米国",
-    "name": "米)製造業PMI【改定値】",
-    "rank": "C",
-    "forecast": "57.0",
-    "previous": "57.0"
-   },
-   {
-    "time": "23:00",
-    "country": "米国",
-    "name": "米)ISM製造業景況指数",
-    "rank": "S",
-    "forecast": "55.0",
-    "previous": "54.6"
-   },
-   {
-    "time": "23:00",
-    "country": "米国",
-    "name": "米)建設支出",
-    "rank": "C",
-    "forecast": "±0.0%",
-    "previous": "-0.5%"
-   },
-   {
-    "time": "23:00",
-    "country": "米国",
-    "name": "米)ウォラーFRB理事の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "23:30",
-    "country": "米国",
-    "name": "米)週間天然ガス貯蔵量",
-    "rank": "B",
-    "forecast": "-",
-    "previous": "+53"
-   },
-   {
-    "time": "23:50",
-    "country": "英国",
-    "name": "英)ピルMPC委員の発言",
-    "rank": "△",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "24:30",
-    "country": "スイス",
-    "name": "ス)シュレーゲルSNB総裁の発言",
-    "rank": "◎",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "26:30",
-    "country": "米国",
-    "name": "米)ジェファーソンFRB副議長の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "28:00",
-    "country": "米国",
-    "name": "米)ボウマンFRB副議長の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "28:30",
-    "country": "米国",
-    "name": "米)クックFRB理事の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "28:30",
-    "country": "米国",
-    "name": "米)ウィリアムズ：NY連銀総裁の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "翌 06:00",
-    "country": "ニュージーランド",
-    "name": "NZ)ANZ消費者信頼感指数",
-    "rank": "×",
-    "forecast": "-",
-    "previous": "98.0"
-   },
-   {
-    "time": "翌 07:45",
-    "country": "米国",
-    "name": "米)ローガン：ダラス連銀総裁の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   }
-  ],
-  "2026-10-02": [
-   {
-    "time": "06:00",
-    "country": "ニュージーランド",
-    "name": "NZ)ANZ消費者信頼感指数",
-    "rank": "×",
-    "forecast": "-",
-    "previous": "98.0"
-   },
-   {
-    "time": "08:20",
-    "country": "米国",
-    "name": "米)ローガン：ダラス連銀総裁の発言(投票権あり)",
-    "rank": "AA",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "08:30",
-    "country": "日本",
-    "name": "日)東京都区部消費者物価指数",
-    "rank": "◎",
-    "forecast": "+2.5%",
-    "previous": "+1.9%"
-   },
-   {
-    "time": "08:30",
-    "country": "日本",
-    "name": "日)失業率",
-    "rank": "×",
-    "forecast": "2.4%",
-    "previous": "2.4%"
-   },
-   {
-    "time": "18:00",
-    "country": "ユーロ圏",
-    "name": "欧)消費者物価指数【速報値】",
-    "rank": "◎",
-    "forecast": "+3.7%",
-    "previous": "+3.2%"
-   },
-   {
-    "time": "21:30",
-    "country": "米国",
-    "name": "米)雇用統計：非農業部門雇用者数",
-    "rank": "SS",
-    "forecast": "+8.8万人",
-    "previous": "+16.2万人"
-   },
-   {
-    "time": "23:00",
-    "country": "米国",
-    "name": "米)製造業受注指数",
-    "rank": "BB",
-    "forecast": "+0.1%",
-    "previous": "+0.9%"
-   },
-   {
-    "time": "28:35",
-    "country": "ドイツ",
-    "name": "独)ナーゲル独連銀総裁の発言",
-    "rank": "△",
-    "forecast": "要人発言",
-    "previous": ""
-   }
-  ],
   "2026-10-05": [
    {
     "time": "16:45",
@@ -2620,6 +2256,656 @@
     "rank": "BB",
     "forecast": "要人発言",
     "previous": ""
+   }
+  ],
+  "2026-11-02": [
+   {
+    "time": "09:30",
+    "country": "オーストラリア",
+    "name": "豪)住宅建設許可件数",
+    "rank": "○",
+    "forecast": "+2.0%",
+    "previous": "-6.1%"
+   },
+   {
+    "time": "10:45",
+    "country": "中国",
+    "name": "中)RatingDog(旧財新)製造業PMI",
+    "rank": "○",
+    "forecast": "52.0",
+    "previous": "52.1"
+   },
+   {
+    "time": "16:00",
+    "country": "ドイツ",
+    "name": "独)小売売上高 [前月比/前年比]",
+    "rank": "△",
+    "forecast": "+0.4%",
+    "previous": "+1.3%"
+   },
+   {
+    "time": "16:30",
+    "country": "スイス",
+    "name": "ス)小売売上高",
+    "rank": "△",
+    "forecast": "-",
+    "previous": "+3.2%"
+   },
+   {
+    "time": "17:30",
+    "country": "スイス",
+    "name": "ス)製造業PMI",
+    "rank": "△",
+    "forecast": "55.4",
+    "previous": "55.3"
+   },
+   {
+    "time": "17:50",
+    "country": "フランス",
+    "name": "仏)製造業PMI【改定値】",
+    "rank": "×",
+    "forecast": "49.3",
+    "previous": "49.3"
+   },
+   {
+    "time": "17:55",
+    "country": "ドイツ",
+    "name": "独)製造業PMI【改定値】",
+    "rank": "×",
+    "forecast": "54.2",
+    "previous": "54.2"
+   },
+   {
+    "time": "18:00",
+    "country": "ユーロ圏",
+    "name": "欧)製造業PMI【改定値】",
+    "rank": "×",
+    "forecast": "52.4",
+    "previous": "52.4"
+   },
+   {
+    "time": "18:30",
+    "country": "英国",
+    "name": "英)製造業PMI【改定値】",
+    "rank": "△",
+    "forecast": "52.8",
+    "previous": "52.8"
+   },
+   {
+    "time": "21:00",
+    "country": "ドイツ",
+    "name": "独)ナーゲル独連銀総裁の発言",
+    "rank": "△",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "23:45",
+    "country": "米国",
+    "name": "米)製造業PMI【改定値】",
+    "rank": "C",
+    "forecast": "56.0",
+    "previous": "56.0"
+   },
+   {
+    "time": "24:00",
+    "country": "米国",
+    "name": "米)ISM製造業景況指数",
+    "rank": "S",
+    "forecast": "54.6",
+    "previous": "54.5"
+   },
+   {
+    "time": "24:00",
+    "country": "米国",
+    "name": "米)建設支出",
+    "rank": "C",
+    "forecast": "+0.3%",
+    "previous": "+0.9%"
+   },
+   {
+    "time": "25:15",
+    "country": "米国",
+    "name": "米)グールズビー：シカゴ連銀総裁の発言(投票権なし)",
+    "rank": "BB",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "米株 引け後",
+    "country": "米国",
+    "name": "米)アップル決算",
+    "rank": "AA",
+    "forecast": "大手企業決算",
+    "previous": ""
+   },
+   {
+    "time": "翌 06:45",
+    "country": "ニュージーランド",
+    "name": "NZ) 住宅建設許可",
+    "rank": "△",
+    "forecast": "-",
+    "previous": "+5.6%"
+   }
+  ],
+  "2026-11-03": [
+   {
+    "time": "06:45",
+    "country": "ニュージーランド",
+    "name": "NZ) 住宅建設許可",
+    "rank": "△",
+    "forecast": "-",
+    "previous": "+5.6%"
+   },
+   {
+    "time": "12:30",
+    "country": "オーストラリア",
+    "name": "豪)RBA政策金利＆声明発表",
+    "rank": "◎",
+    "forecast": "25bp 利上げ 4.85%",
+    "previous": "25bp 利上げ 4.60%"
+   },
+   {
+    "time": "12:30",
+    "country": "オーストラリア",
+    "name": "豪)RBA四半期金融政策報告",
+    "rank": "◎",
+    "forecast": "-",
+    "previous": "-"
+   },
+   {
+    "time": "13:30",
+    "country": "オーストラリア",
+    "name": "豪)ブロックRBA総裁の記者会見",
+    "rank": "◎",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "16:30",
+    "country": "スイス",
+    "name": "ス)消費者物価指数 [前月比/前年比]",
+    "rank": "△",
+    "forecast": "±0.0%",
+    "previous": "±0.0%"
+   },
+   {
+    "time": "16:45",
+    "country": "フランス",
+    "name": "仏)財政収支",
+    "rank": "×",
+    "forecast": "-",
+    "previous": "-1596億"
+   },
+   {
+    "time": "24:00",
+    "country": "米国",
+    "name": "米)JOLTS求人",
+    "rank": "AA",
+    "forecast": "7100千件",
+    "previous": "7079千件"
+   },
+   {
+    "time": "24:00",
+    "country": "米国",
+    "name": "米)製造業受注指数",
+    "rank": "BB",
+    "forecast": "+1.2%",
+    "previous": "+0.1%"
+   },
+   {
+    "time": "25:00",
+    "country": "カナダ",
+    "name": "加)マックレムBOC総裁の発言",
+    "rank": "◎",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "26:00",
+    "country": "ドイツ",
+    "name": "独)ナーゲル独連銀総裁の発言",
+    "rank": "△",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "翌 06:45",
+    "country": "ニュージーランド",
+    "name": "NZ)第3四半期失業率",
+    "rank": "◎",
+    "forecast": "5.5%",
+    "previous": "5.6%"
+   }
+  ],
+  "2026-11-04": [
+   {
+    "time": "06:45",
+    "country": "ニュージーランド",
+    "name": "NZ)第3四半期失業率",
+    "rank": "◎",
+    "forecast": "5.5%",
+    "previous": "5.6%"
+   },
+   {
+    "time": "10:45",
+    "country": "中国",
+    "name": "中)RatingDog(旧財新)非製造業PMI",
+    "rank": "○",
+    "forecast": "51.4",
+    "previous": "51.6"
+   },
+   {
+    "time": "17:50",
+    "country": "フランス",
+    "name": "仏)非製造業PMI【改定値】",
+    "rank": "×",
+    "forecast": "48.4",
+    "previous": "48.4"
+   },
+   {
+    "time": "17:55",
+    "country": "ドイツ",
+    "name": "独)非製造業PMI【改定値】",
+    "rank": "×",
+    "forecast": "51.7",
+    "previous": "51.7"
+   },
+   {
+    "time": "18:00",
+    "country": "ユーロ圏",
+    "name": "欧)非製造業PMI【改定値】",
+    "rank": "×",
+    "forecast": "51.7",
+    "previous": "51.7"
+   },
+   {
+    "time": "18:30",
+    "country": "英国",
+    "name": "英)非製造業PMI【改定値】",
+    "rank": "△",
+    "forecast": "53.1",
+    "previous": "53.1"
+   },
+   {
+    "time": "19:00",
+    "country": "ユーロ圏",
+    "name": "欧)消費者物価指数【速報値】",
+    "rank": "◎",
+    "forecast": "+3.9%",
+    "previous": "+3.8%"
+   },
+   {
+    "time": "21:00",
+    "country": "米国",
+    "name": "米)MBA住宅ローン申請指数",
+    "rank": "C",
+    "forecast": "-",
+    "previous": "+3.4%"
+   },
+   {
+    "time": "22:15",
+    "country": "米国",
+    "name": "米)ADP雇用統計",
+    "rank": "AA",
+    "forecast": "+7.0万人",
+    "previous": "+9.0万人"
+   },
+   {
+    "time": "22:30",
+    "country": "カナダ",
+    "name": "加)貿易収支",
+    "rank": "○",
+    "forecast": "+60.0億",
+    "previous": "+42.0億"
+   },
+   {
+    "time": "22:30",
+    "country": "米国",
+    "name": "米)貿易収支",
+    "rank": "A",
+    "forecast": "-1079億",
+    "previous": "-1056億"
+   },
+   {
+    "time": "23:45",
+    "country": "米国",
+    "name": "米)非製造業PMI【改定値】",
+    "rank": "C",
+    "forecast": "57.9",
+    "previous": "57.9"
+   },
+   {
+    "time": "24:00",
+    "country": "米国",
+    "name": "米)ISM非製造業景況指数",
+    "rank": "S",
+    "forecast": "54.7",
+    "previous": "54.9"
+   },
+   {
+    "time": "24:30",
+    "country": "米国",
+    "name": "米)週間原油在庫",
+    "rank": "BB",
+    "forecast": "-",
+    "previous": "-189.2万"
+   }
+  ],
+  "2026-11-05": [
+   {
+    "time": "08:50",
+    "country": "日本",
+    "name": "日)BOJ議事要旨公表(9月17日・18日開催分)",
+    "rank": "○",
+    "forecast": "-",
+    "previous": "-"
+   },
+   {
+    "time": "09:30",
+    "country": "オーストラリア",
+    "name": "豪)貿易収支",
+    "rank": "◎",
+    "forecast": "+10.00億",
+    "previous": "+4.95億"
+   },
+   {
+    "time": "12:35",
+    "country": "日本",
+    "name": "日)10年利付国債入札",
+    "rank": "○",
+    "forecast": "-",
+    "previous": ""
+   },
+   {
+    "time": "16:00",
+    "country": "ドイツ",
+    "name": "独)製造業受注 [前月比/前年比]",
+    "rank": "△",
+    "forecast": "+5.0%",
+    "previous": "-10.6%"
+   },
+   {
+    "time": "16:45",
+    "country": "フランス",
+    "name": "仏)鉱工業生産 [前月比/前年比]",
+    "rank": "△",
+    "forecast": "+0.4%",
+    "previous": "-0.3%"
+   },
+   {
+    "time": "16:45",
+    "country": "フランス",
+    "name": "仏)製造業生産指数 [前月比/前年比]",
+    "rank": "△",
+    "forecast": "-",
+    "previous": "+0.3%"
+   },
+   {
+    "time": "17:00",
+    "country": "スイス",
+    "name": "ス)失業率",
+    "rank": "×",
+    "forecast": "3.0%",
+    "previous": "3.0%"
+   },
+   {
+    "time": "18:30",
+    "country": "英国",
+    "name": "英)建設業PMI",
+    "rank": "○",
+    "forecast": "46.5",
+    "previous": "46.1"
+   },
+   {
+    "time": "19:00",
+    "country": "ユーロ圏",
+    "name": "欧)生産者物価指数 [前月比/前年比]",
+    "rank": "×",
+    "forecast": "+2.5%",
+    "previous": "+1.9%"
+   },
+   {
+    "time": "19:30",
+    "country": "米国",
+    "name": "米)チャレンジャー人員削減予定数",
+    "rank": "C",
+    "forecast": "-",
+    "previous": "-19.9%"
+   },
+   {
+    "time": "21:00",
+    "country": "英国",
+    "name": "英)BOE政策金利＆声明発表",
+    "rank": "◎",
+    "forecast": "25bp 利上げ 4.00%",
+    "previous": "3.75% 据え置き"
+   },
+   {
+    "time": "21:00",
+    "country": "英国",
+    "name": "英)BOE議事録公表",
+    "rank": "◎",
+    "forecast": "-",
+    "previous": "-"
+   },
+   {
+    "time": "21:00",
+    "country": "英国",
+    "name": "英)BOE四半期金融政策報告",
+    "rank": "◎",
+    "forecast": "-",
+    "previous": "-"
+   },
+   {
+    "time": "21:30",
+    "country": "英国",
+    "name": "英)ベイリーBOE総裁の記者会見",
+    "rank": "◎",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "21:40",
+    "country": "スイス",
+    "name": "ス)シュレーゲルSNB総裁の発言",
+    "rank": "◎",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "22:30",
+    "country": "米国",
+    "name": "米)新規失業保険申請件数",
+    "rank": "AA",
+    "forecast": "19.5万件",
+    "previous": "19.4万件"
+   },
+   {
+    "time": "22:30",
+    "country": "米国",
+    "name": "米)第3四半期非農業部門労働生産性【速報値】",
+    "rank": "BB",
+    "forecast": "+3.0%",
+    "previous": "+1.4%"
+   },
+   {
+    "time": "22:50",
+    "country": "米国",
+    "name": "米)ハマック：クリーブランド連銀総裁の発言(投票権あり)",
+    "rank": "AA",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "23:10",
+    "country": "米国",
+    "name": "米)バーキン：リッチモンド連銀総裁の発言(投票権なし)",
+    "rank": "BB",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "24:30",
+    "country": "米国",
+    "name": "米)週間天然ガス貯蔵量",
+    "rank": "B",
+    "forecast": "-",
+    "previous": "+80"
+   },
+   {
+    "time": "26:45",
+    "country": "ドイツ",
+    "name": "独)ナーゲル独連銀総裁の発言",
+    "rank": "△",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "27:00",
+    "country": "ユーロ",
+    "name": "欧)ラガルドECB総裁の発言",
+    "rank": "◎",
+    "forecast": "要人発言",
+    "previous": ""
+   }
+  ],
+  "2026-11-06": [
+   {
+    "time": "09:00",
+    "country": "米国",
+    "name": "米)ローガン：ダラス連銀総裁の発言(投票権あり)",
+    "rank": "AA",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "16:00",
+    "country": "英国",
+    "name": "英)ロイズ住宅価格指数 [前月比/前年比]",
+    "rank": "△",
+    "forecast": "-",
+    "previous": "±0.0%"
+   },
+   {
+    "time": "16:00",
+    "country": "ドイツ",
+    "name": "独)鉱工業生産 [前月比/前年比]",
+    "rank": "△",
+    "forecast": "-0.2%",
+    "previous": "+2.0%"
+   },
+   {
+    "time": "16:45",
+    "country": "フランス",
+    "name": "仏)貿易収支",
+    "rank": "×",
+    "forecast": "-",
+    "previous": "-61.22億"
+   },
+   {
+    "time": "16:45",
+    "country": "フランス",
+    "name": "仏)経常収支",
+    "rank": "×",
+    "forecast": "-",
+    "previous": "-15億"
+   },
+   {
+    "time": "18:30",
+    "country": "米国",
+    "name": "米)ウィリアムズ：NY連銀総裁の発言(投票権あり)",
+    "rank": "AA",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "19:00",
+    "country": "ユーロ圏",
+    "name": "欧)小売売上高 [前月比/前年比]",
+    "rank": "×",
+    "forecast": "-0.1%",
+    "previous": "+0.1%"
+   },
+   {
+    "time": "20:00",
+    "country": "スイス",
+    "name": "ス)テュディンSNB理事の発言",
+    "rank": "△",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "21:15",
+    "country": "英国",
+    "name": "英)ピルMPC理事の発言",
+    "rank": "△",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "22:30",
+    "country": "カナダ",
+    "name": "加)失業率",
+    "rank": "◎",
+    "forecast": "6.5%",
+    "previous": "6.5%"
+   },
+   {
+    "time": "22:30",
+    "country": "米国",
+    "name": "米)雇用統計：非農業部門雇用者数",
+    "rank": "SS",
+    "forecast": "+6.0万人",
+    "previous": "+2.9万人"
+   },
+   {
+    "time": "23:10",
+    "country": "米国",
+    "name": "米)ムサレム：セントルイス連銀総裁の発言(投票権なし)",
+    "rank": "BB",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "24:00",
+    "country": "カナダ",
+    "name": "加)Ivey購買部協会指数",
+    "rank": "○",
+    "forecast": "-",
+    "previous": "58.2"
+   },
+   {
+    "time": "24:00",
+    "country": "米国",
+    "name": "米)ミシガン大学消費者信頼感指数【速報値】",
+    "rank": "AA",
+    "forecast": "47.6",
+    "previous": "48.0"
+   },
+   {
+    "time": "25:00",
+    "country": "日本",
+    "name": "日)植田日銀総裁の発言",
+    "rank": "◎",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "26:15",
+    "country": "米国",
+    "name": "米)ボウマンFRB副議長の発言(投票権あり)",
+    "rank": "AA",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "29:00",
+    "country": "米国",
+    "name": "米)消費者信用残高",
+    "rank": "C",
+    "forecast": "+130.00億",
+    "previous": "+82.81億"
    }
   ]
  }
