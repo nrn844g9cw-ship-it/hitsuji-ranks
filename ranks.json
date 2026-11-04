@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T05:26:38+09:00",
+ "updatedAt": "2026-11-04T20:39:34+09:00",
  "source": "https://kissfx.com/",
  "days": {
   "2026-10-06": [
@@ -2426,7 +2426,7 @@
     "country": "中国",
     "name": "中)RatingDog(旧財新)非製造業PMI",
     "rank": "○",
-    "forecast": "51.4",
+    "forecast": "51.7",
     "previous": "51.6"
    },
    {
@@ -2466,7 +2466,7 @@
     "country": "ユーロ圏",
     "name": "欧)消費者物価指数【速報値】",
     "rank": "◎",
-    "forecast": "+3.9%",
+    "forecast": "+4.0%",
     "previous": "+3.8%"
    },
    {
@@ -2482,7 +2482,7 @@
     "country": "米国",
     "name": "米)ADP雇用統計",
     "rank": "AA",
-    "forecast": "+7.0万人",
+    "forecast": "+6.6万人",
     "previous": "+9.0万人"
    },
    {
@@ -2490,7 +2490,7 @@
     "country": "カナダ",
     "name": "加)貿易収支",
     "rank": "○",
-    "forecast": "+60.0億",
+    "forecast": "+50.0億",
     "previous": "+42.0億"
    },
    {
@@ -2514,7 +2514,7 @@
     "country": "米国",
     "name": "米)ISM非製造業景況指数",
     "rank": "S",
-    "forecast": "54.7",
+    "forecast": "54.8",
     "previous": "54.9"
    },
    {
