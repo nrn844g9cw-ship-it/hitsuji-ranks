@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T05:26:39+09:00",
+ "updatedAt": "2026-11-06T20:39:34+09:00",
  "source": "https://kissfx.com/",
  "days": {
   "2026-10-08": [
@@ -2466,7 +2466,7 @@
     "country": "英国",
     "name": "英)ロイズ住宅価格指数 [前月比/前年比]",
     "rank": "△",
-    "forecast": "-",
+    "forecast": "±0.0%",
     "previous": "±0.0%"
    },
    {
@@ -2538,7 +2538,7 @@
     "country": "米国",
     "name": "米)雇用統計：非農業部門雇用者数",
     "rank": "SS",
-    "forecast": "+6.0万人",
+    "forecast": "+6.5万人",
     "previous": "+2.9万人"
    },
    {
@@ -2562,7 +2562,7 @@
     "country": "米国",
     "name": "米)ミシガン大学消費者信頼感指数【速報値】",
     "rank": "AA",
-    "forecast": "47.6",
+    "forecast": "48.0",
     "previous": "48.0"
    },
    {
@@ -2586,7 +2586,7 @@
     "country": "米国",
     "name": "米)消費者信用残高",
     "rank": "C",
-    "forecast": "+130.00億",
+    "forecast": "+138.00億",
     "previous": "+82.81億"
    }
   ]
