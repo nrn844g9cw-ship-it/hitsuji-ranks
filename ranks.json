@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T05:26:38+09:00",
+ "updatedAt": "2026-11-10T20:39:34+09:00",
  "source": "https://kissfx.com/",
  "days": {
   "2026-10-12": [
@@ -2554,7 +2554,7 @@
     "country": "中国",
     "name": "中)貿易収支",
     "rank": "○",
-    "forecast": "+1259.0億",
+    "forecast": "+1258.0億",
     "previous": "+1335.3億"
    },
    {
@@ -2570,8 +2570,16 @@
     "country": "日本",
     "name": "日)景気ウォッチャー調査[現状判断DI]",
     "rank": "×",
-    "forecast": "47.0",
+    "forecast": "47.1",
     "previous": "47.0"
+   },
+   {
+    "time": "17:30",
+    "country": "英国",
+    "name": "英)ブリーデンBOE副総裁の発言",
+    "rank": "△",
+    "forecast": "要人発言",
+    "previous": ""
    },
    {
     "time": "18:00",
@@ -2586,7 +2594,7 @@
     "country": "米国",
     "name": "米)NFIB中小企業楽観指数",
     "rank": "C",
-    "forecast": "98.0",
+    "forecast": "97.9",
     "previous": "97.9"
    },
    {
@@ -2606,7 +2614,7 @@
     "previous": "+0.6%"
    },
    {
-    "time": "23:35",
+    "time": "24:50",
     "country": "米国",
     "name": "米)ローガン：ダラス連銀総裁の発言(投票権あり)",
     "rank": "AA",
