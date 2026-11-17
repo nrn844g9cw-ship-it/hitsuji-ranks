@@ -1,89 +1,7 @@
 {
- "updatedAt": "2026-11-17T05:26:38+09:00",
+ "updatedAt": "2026-11-17T20:39:34+09:00",
  "source": "https://kissfx.com/",
  "days": {
-  "2026-10-19": [
-   {
-    "time": "06:45",
-    "country": "ニュージーランド",
-    "name": "NZ)貿易収支",
-    "rank": "○",
-    "forecast": "-",
-    "previous": "-13.49億"
-   },
-   {
-    "time": "08:01",
-    "country": "英国",
-    "name": "英)ライトムーブ住宅価格 [前月比/前年比]",
-    "rank": "×",
-    "forecast": "-",
-    "previous": "+0.7%"
-   },
-   {
-    "time": "11:00",
-    "country": "中国",
-    "name": "中)第3四半期GDP [前期比/前年比]",
-    "rank": "◎",
-    "forecast": "+0.9%",
-    "previous": "+0.9%"
-   },
-   {
-    "time": "11:00",
-    "country": "中国",
-    "name": "中)鉱工業生産",
-    "rank": "○",
-    "forecast": "+5.5%",
-    "previous": "+5.2%"
-   },
-   {
-    "time": "11:00",
-    "country": "中国",
-    "name": "中)小売売上高",
-    "rank": "○",
-    "forecast": "+0.5%",
-    "previous": "+0.4%"
-   },
-   {
-    "time": "11:00",
-    "country": "中国",
-    "name": "中)固定資産投資",
-    "rank": "○",
-    "forecast": "-7.3%",
-    "previous": "-7.2%"
-   },
-   {
-    "time": "13:30",
-    "country": "日本",
-    "name": "日)第三次産業活動指数",
-    "rank": "×",
-    "forecast": "-0.4%",
-    "previous": "+0.4%"
-   },
-   {
-    "time": "21:30",
-    "country": "カナダ",
-    "name": "加)消費者物価指数[前月比/前年比]",
-    "rank": "◎",
-    "forecast": "+0.2%",
-    "previous": "-0.1%"
-   },
-   {
-    "time": "23:00",
-    "country": "米国",
-    "name": "米)NAHB住宅市場指数",
-    "rank": "C",
-    "forecast": "31",
-    "previous": "32"
-   },
-   {
-    "time": "-",
-    "country": "米国",
-    "name": "米)注目度の高い経済指標の発表はない",
-    "rank": "",
-    "forecast": "-",
-    "previous": "-"
-   }
-  ],
   "2026-10-20": [
    {
     "time": "12:35",
@@ -2526,10 +2444,26 @@
   ],
   "2026-11-17": [
    {
-    "time": "08:00",
+    "time": "07:50",
     "country": "オーストラリア",
     "name": "豪)ブロックRBA総裁の発言",
     "rank": "◎",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "08:10",
+    "country": "米国",
+    "name": "米)バーキン：リッチモンド連銀総裁の発言(投票権なし)",
+    "rank": "BB",
+    "forecast": "要人発言",
+    "previous": ""
+   },
+   {
+    "time": "08:30",
+    "country": "米国",
+    "name": "米)グールズビー：シカゴ連銀総裁の発言(投票権なし)",
+    "rank": "BB",
     "forecast": "要人発言",
     "previous": ""
    },
@@ -2562,7 +2496,7 @@
     "country": "ドイツ",
     "name": "独)ZEW景況感調査",
     "rank": "○",
-    "forecast": "+28.3",
+    "forecast": "+28.8",
     "previous": "+28.1"
    },
    {
@@ -2610,7 +2544,7 @@
     "country": "米国",
     "name": "米)小売売上高",
     "rank": "S",
-    "forecast": "+0.2%",
+    "forecast": "+0.1%",
     "previous": "+0.8%"
    },
    {
