@@ -1,121 +1,7 @@
 {
- "updatedAt": "2026-11-20T05:26:38+09:00",
+ "updatedAt": "2026-11-20T20:39:34+09:00",
  "source": "https://kissfx.com/",
  "days": {
-  "2026-10-21": [
-   {
-    "time": "08:50",
-    "country": "日本",
-    "name": "日)貿易収支(通関ベース)",
-    "rank": "×",
-    "forecast": "-1810億",
-    "previous": "-11056億"
-   },
-   {
-    "time": "15:00",
-    "country": "英国",
-    "name": "英)消費者物価指数[前月比/前年比]",
-    "rank": "◎",
-    "forecast": "+0.3%",
-    "previous": "+0.5%"
-   },
-   {
-    "time": "15:00",
-    "country": "英国",
-    "name": "英)生産者物価指数[前月比/前年比]",
-    "rank": "○",
-    "forecast": "+0.6%",
-    "previous": "+0.7%"
-   },
-   {
-    "time": "15:00",
-    "country": "英国",
-    "name": "英)小売物価指数[前月比/前年比]",
-    "rank": "○",
-    "forecast": "+0.1%",
-    "previous": "+0.6%"
-   },
-   {
-    "time": "16:15",
-    "country": "ドイツ",
-    "name": "独)ナーゲル独連銀総裁の発言",
-    "rank": "△",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "20:00",
-    "country": "米国",
-    "name": "米)MBA住宅ローン申請指数",
-    "rank": "C",
-    "forecast": "-",
-    "previous": "-2.7%"
-   },
-   {
-    "time": "22:00",
-    "country": "英国",
-    "name": "英)ベイリーBOE総裁の発言",
-    "rank": "◎",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "23:30",
-    "country": "米国",
-    "name": "米)週間原油在庫",
-    "rank": "BB",
-    "forecast": "-",
-    "previous": "-855.7万"
-   },
-   {
-    "time": "25:00",
-    "country": "ユーロ圏",
-    "name": "欧)ラガルドECB総裁の発言",
-    "rank": "◎",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "26:00",
-    "country": "米国",
-    "name": "米)20年債入札",
-    "rank": "AA",
-    "forecast": "130億ドル",
-    "previous": ""
-   },
-   {
-    "time": "-",
-    "country": "米国",
-    "name": "米)注目度の高い経済指標の発表はない",
-    "rank": "",
-    "forecast": "-",
-    "previous": "-"
-   },
-   {
-    "time": "米株 引け後",
-    "country": "米国",
-    "name": "米)メタ・プラットフォームズ決算",
-    "rank": "AA",
-    "forecast": "大手企業決算",
-    "previous": ""
-   },
-   {
-    "time": "米株 引け後",
-    "country": "米国",
-    "name": "米)テスラ決算",
-    "rank": "AA",
-    "forecast": "大手企業決算",
-    "previous": ""
-   },
-   {
-    "time": "翌 06:45",
-    "country": "ニュージーランド",
-    "name": "NZ)第3四半期消費者物価指数 [前期比/前年比]",
-    "rank": "◎",
-    "forecast": "+0.8%",
-    "previous": "+1.5%"
-   }
-  ],
   "2026-10-22": [
    {
     "time": "06:45",
@@ -2996,11 +2882,11 @@
     "country": "ドイツ",
     "name": "独)生産者物価指数 [前期比/前年比]",
     "rank": "×",
-    "forecast": "+0.6%",
+    "forecast": "+1.0%",
     "previous": "+1.9%"
    },
    {
-    "time": "17:15",
+    "time": "17:30",
     "country": "ユーロ",
     "name": "欧)ラガルドECB総裁の発言",
     "rank": "◎",
@@ -3036,7 +2922,7 @@
     "country": "米国",
     "name": "米)ミシガン大学消費者信頼感指数【確報値】",
     "rank": "A",
-    "forecast": "53.3",
+    "forecast": "51.5",
     "previous": "51.0"
    },
    {
