@@ -1,73 +1,7 @@
 {
- "updatedAt": "2026-11-26T05:26:38+09:00",
+ "updatedAt": "2026-11-26T20:39:34+09:00",
  "source": "https://kissfx.com/",
  "days": {
-  "2026-10-27": [
-   {
-    "time": "16:45",
-    "country": "フランス",
-    "name": "仏)消費者信頼感指数",
-    "rank": "△",
-    "forecast": "85",
-    "previous": "86"
-   },
-   {
-    "time": "21:30",
-    "country": "米国",
-    "name": "米)耐久財受注",
-    "rank": "A",
-    "forecast": "+1.9%",
-    "previous": "-0.1%"
-   },
-   {
-    "time": "22:00",
-    "country": "米国",
-    "name": "米)S＆P/ケース・シラー住宅価格指数 [前月比/前年比]",
-    "rank": "BB",
-    "forecast": "+0.30%",
-    "previous": "+0.32%"
-   },
-   {
-    "time": "22:00",
-    "country": "米国",
-    "name": "米)住宅価格指数",
-    "rank": "BB",
-    "forecast": "+0.2%",
-    "previous": "+0.3%"
-   },
-   {
-    "time": "23:00",
-    "country": "米国",
-    "name": "米)消費者信頼感指数",
-    "rank": "AA",
-    "forecast": "81.0",
-    "previous": "81.9"
-   },
-   {
-    "time": "23:00",
-    "country": "米国",
-    "name": "米)新築住宅販売件数",
-    "rank": "A",
-    "forecast": "65.0万件",
-    "previous": "68.4万件"
-   },
-   {
-    "time": "23:00",
-    "country": "米国",
-    "name": "米)リッチモンド連銀製造業指数",
-    "rank": "C",
-    "forecast": "±0",
-    "previous": "-2"
-   },
-   {
-    "time": "26:00",
-    "country": "米国",
-    "name": "米)5年債入札",
-    "rank": "A",
-    "forecast": "700億ドル",
-    "previous": ""
-   }
-  ],
   "2026-10-28": [
    {
     "time": "09:30",
