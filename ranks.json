@@ -1,121 +1,7 @@
 {
- "updatedAt": "2026-11-27T05:26:39+09:00",
+ "updatedAt": "2026-11-27T20:39:34+09:00",
  "source": "https://kissfx.com/",
  "days": {
-  "2026-10-28": [
-   {
-    "time": "09:30",
-    "country": "オーストラリア",
-    "name": "豪)第3四半期消費者物価指数 [前期比/前年比]",
-    "rank": "◎",
-    "forecast": "+1.2%",
-    "previous": "+0.6%"
-   },
-   {
-    "time": "09:30",
-    "country": "オーストラリア",
-    "name": "豪)消費者物価指数",
-    "rank": "◎",
-    "forecast": "+4.2%",
-    "previous": "+4.0%"
-   },
-   {
-    "time": "10:00",
-    "country": "ニュージーランド",
-    "name": "NZ)RBNZ政策金利＆声明発表",
-    "rank": "◎",
-    "forecast": "25bp 利上げ 3.00%",
-    "previous": "25bp 利上げ 2.75%"
-   },
-   {
-    "time": "11:00",
-    "country": "ニュージーランド",
-    "name": "NZ)ブレマンRBNZ総裁の記者会見",
-    "rank": "◎",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "16:00",
-    "country": "ドイツ",
-    "name": "独)GFK消費者信頼感調査",
-    "rank": "×",
-    "forecast": "-30.9",
-    "previous": "-30.6"
-   },
-   {
-    "time": "20:00",
-    "country": "米国",
-    "name": "米)MBA住宅ローン申請指数",
-    "rank": "C",
-    "forecast": "-",
-    "previous": "-5.3%"
-   },
-   {
-    "time": "21:30",
-    "country": "米国",
-    "name": "米)卸売在庫【速報値】",
-    "rank": "C",
-    "forecast": "+0.5%",
-    "previous": "+0.5%"
-   },
-   {
-    "time": "22:45",
-    "country": "カナダ",
-    "name": "加)BOC政策金利＆声明発表",
-    "rank": "◎",
-    "forecast": "2.25%と 2.50%で 拮抗",
-    "previous": "2.25% 据え置き"
-   },
-   {
-    "time": "23:30",
-    "country": "カナダ",
-    "name": "加)マックレムBOC総裁の記者会見",
-    "rank": "◎",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "23:30",
-    "country": "米国",
-    "name": "米)週間原油在庫",
-    "rank": "BB",
-    "forecast": "-",
-    "previous": "-306.0万"
-   },
-   {
-    "time": "27:00",
-    "country": "米国",
-    "name": "米)FOMC政策金利＆声明発表",
-    "rank": "SS",
-    "forecast": "4.00% 据え置き",
-    "previous": "25bp 利上げ 4.00%"
-   },
-   {
-    "time": "27:30",
-    "country": "米国",
-    "name": "米)ウォーシュFRB議長の記者会見",
-    "rank": "SS",
-    "forecast": "要人発言",
-    "previous": ""
-   },
-   {
-    "time": "米株 引け後",
-    "country": "米国",
-    "name": "米)アルファベット決算",
-    "rank": "AA",
-    "forecast": "大手企業決算",
-    "previous": ""
-   },
-   {
-    "time": "米株 引け後",
-    "country": "米国",
-    "name": "米)マイクロソフト決算",
-    "rank": "AA",
-    "forecast": "大手企業決算",
-    "previous": ""
-   }
-  ],
   "2026-10-29": [
    {
     "time": "09:00",
@@ -3044,7 +2930,7 @@
     "country": "フランス",
     "name": "仏)消費者物価指数【速報値】 [前月比/前年比]",
     "rank": "△",
-    "forecast": "-0.1%",
+    "forecast": "-0.2%",
     "previous": "+0.4%"
    },
    {
@@ -3052,7 +2938,7 @@
     "country": "フランス",
     "name": "仏)消費者支出 [前月比/前年比]",
     "rank": "×",
-    "forecast": "+0.3%",
+    "forecast": "+0.1%",
     "previous": "-0.5%"
    },
    {
@@ -3064,7 +2950,7 @@
     "previous": "6.4%"
    },
    {
-    "time": "21:40",
+    "time": "21:50",
     "country": "ドイツ",
     "name": "独)ナーゲル独連銀総裁の発言",
     "rank": "△",
@@ -3076,7 +2962,7 @@
     "country": "カナダ",
     "name": "加)第3四半期経常収支",
     "rank": "○",
-    "forecast": "+99.0億",
+    "forecast": "+94.0億",
     "previous": "+88.4億"
    },
    {
@@ -3084,7 +2970,7 @@
     "country": "米国",
     "name": "米)卸売在庫【速報値】",
     "rank": "C",
-    "forecast": "+0.4%",
+    "forecast": "+0.5%",
     "previous": "+0.6%"
    },
    {
